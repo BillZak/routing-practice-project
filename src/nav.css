@@ -1,0 +1,16 @@
+
+.nav{
+    background-color: rgb(9, 8, 56);
+    padding: 20px;
+    text-align: center;
+}
+
+button{
+    margin: 20px;
+    background-color: rgb(9, 8, 56);
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
