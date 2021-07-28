@@ -6,7 +6,7 @@ const Services = () => {
             <h1>Services Page</h1>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Aliquid fugit eveniet deserunt, accusamus atque ex beatae 
-             eos recusandae perspiciatis cum?
+             eos recusandaes perspiciatis cum?
         </div>
     );
 }
