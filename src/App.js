@@ -16,7 +16,7 @@ function App() {
       <div className="nav">
           <Link to="/"><button>Home</button></Link>
           <Link to="/about"><button>About</button></Link>
-          <Link to="/contact"><button>Contact</button></Link>
+          <Link to="/contact"><button>Contacts</button></Link>
           <Link to="/services"><button>Services</button></Link>
       </div>
       
